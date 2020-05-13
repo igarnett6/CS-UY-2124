@@ -1,0 +1,18 @@
+Edward Elric 1564897265
+deposit 5000
+
+Alphonse Elric 4587901254
+deposit 5000
+
+Winry Rockbell  0132548776
+deposit 10000
+
+Edward Elric 1564897265
+withdraw 300
+
+Alphonse Elric 4587901254
+withdraw 700000
+
+Alphonse Elric 4587901254
+withdraw 50
+

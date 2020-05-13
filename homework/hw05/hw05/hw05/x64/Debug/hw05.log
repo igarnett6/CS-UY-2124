@@ -1,0 +1,4 @@
+﻿  hw05.cpp
+c:\users\isaiah\documents\school\spring 2019\objectoriented\homework\hw05\hw05\hw05\hw05.cpp(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\isaiah\documents\school\spring 2019\objectoriented\homework\hw05\hw05\hw05\hw05.cpp(167): warning C4930: 'std::ostream os(void)': prototyped function not called (was a variable definition intended?)
+  hw05.vcxproj -> C:\Users\Isaiah\Documents\School\spring 2019\ObjectOriented\homework\hw05\hw05\x64\Debug\hw05.exe

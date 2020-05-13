@@ -1,0 +1,3 @@
+﻿  testPolynomial.cpp
+C:\Users\Isaiah\Documents\School\spring 2019\ObjectOriented\homework\hw08\hw08\testPolynomial.cpp(266): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hw08.vcxproj -> C:\Users\Isaiah\Documents\School\spring 2019\ObjectOriented\homework\hw08\hw08\x64\Debug\hw08.exe
